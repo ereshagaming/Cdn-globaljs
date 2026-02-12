@@ -41,7 +41,7 @@
 <meta property="og:description" content="BANDARGAMING merupakan link slot gacor 777 situs toto slot resmi 2026 yang menghadirkan permainan stabil, RTP tinggi, dan akses cepat hari ini." />
 <meta property="og:type" content="product" />
 <meta property="og:url" content="https://central-asia.kz/" />
-<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg" />
+<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg" />
 <meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
 <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCpkS07CwfXkxmMTd6mRARF0khm4rrzm3lTM_ExbPnQNve4wMD6bsd4BZt3a9F0XkB-N7B8L5sGaTCPWDLU75U7OtM9lpr-SAg7QG6LK5dTXFNwLNvbao1SZoi3_B_dZc3smV6YE6lITZLc8gcgpC3-31Xyl-wF071tkby0SIGYiKOJgYUfw3Er4x9ak/w62-h62/favicon.png" />
 <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCpkS07CwfXkxmMTd6mRARF0khm4rrzm3lTM_ExbPnQNve4wMD6bsd4BZt3a9F0XkB-N7B8L5sGaTCPWDLU75U7OtM9lpr-SAg7QG6LK5dTXFNwLNvbao1SZoi3_B_dZc3smV6YE6lITZLc8gcgpC3-31Xyl-wF071tkby0SIGYiKOJgYUfw3Er4x9ak/w62-h62/favicon.png" type="image/png" sizes="32x32" />
@@ -53,7 +53,7 @@
 <link rel="preconnect" href="https://central-asia.kz/" />
 <link rel="preconnect" href="https://central-asia.kz/" />
 <link rel="preconnect" href="https://central-asia.kz/" crossorigin="anonymous" />
-<link rel="preload" as="image" imagesrcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg" fetchpriority="high" />
+<link rel="preload" as="image" imagesrcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg" fetchpriority="high" />
 <link rel="alternate" href="https://central-asia.kz/" hreflang="en" />
 <link rel="alternate" href="https://central-asia.kz/" hreflang="en-FI" />
 <link rel="alternate" href="https://central-asia.kz/" hreflang="en-AU" />
@@ -184,7 +184,7 @@
 
 <script type="application/ld+json">
 {
-  "@context": "https://central-asia.kz/",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
@@ -225,7 +225,7 @@
         "@type": "Offer",
         "price": "77777",
         "priceCurrency": "IDR",
-        "availability": "https://central-asia.kz/InStock"
+        "availability": "https://schema.org/InStock"
       }
     },
     {
@@ -1296,11 +1296,11 @@ body::after {
                             alt="BANDARGAMING"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
-                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg"
-                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg"
+                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg"
                             fetchpriority="high"    
                             data-original-image-width="3000"
-                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg"
+                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg"
                             data-index="0"
                         />
                     </li>
@@ -1352,12 +1352,12 @@ body::after {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="BANDARGAMING"
                             
-                            data-delay-src="https://central-asia.kz//https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg"
-                            data-delay-srcset="https://central-asia.kz//https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg 2x"
+                            data-delay-src="https://central-asia.kz//https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg"
+                            data-delay-srcset="https://central-asia.kz//https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg 2x"
                             data-original-image-width="3000"
                             data-original-image-height="3000"
                             data-index="0"
-                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMVyAgvsBmk_6fWlsewqFAA1GlqhnR_8EspbzXp6WAbbU7Pv3H-roFsZEnAkSqrxURbSCg-pXqg9UOQ5_8_i7RQalOwryvySn8cduI094IBlpgFJvFTncEnxjCc4HVXBwGiTEkpWT78fl1Bhg3zytB46OZdQvmvo_613e_IOCtumVwGwZfERy8TYb_og/s1080/slotcuan4.jpg"
+                            data-src-zoom-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZO0n6WeFO7d_y_-sW_DrYSn7zFXOO8qhk8hnzhAj-SgAPUDWcxCSVu_5IGE0erpuMgOGoGTrOV_xvRHPL6fEg0HTqLKETLa-yYK7gESGoiNP8qSw_VtYiZM0yPxt5_FIKlB-1ryHkBZ-3r49t0mpotqzJIsL3Ilcn5wLALbVkGrWUqaoinvbGVLRz2Q/s1080/slotcuan3.jpg"
                         />
                     </li>
                   
