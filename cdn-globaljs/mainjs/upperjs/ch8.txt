@@ -12,7 +12,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <meta content="CEPATHOKI88 adalah situs slot gacor hari ini terpercaya serta penyokong link judi slot online terbaru gampang menang dengan pola gacor terupdate mantap." name="description"/>
-<link rel="prefetch" href="https://store.incogiagroup.com/" as="document"/>
+<link rel="prefetch" href="https://development.resolvebeyond.co.uk/" as="document"/>
 <link rel="amphtml" href="https://cepathokiblay7.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
@@ -27,7 +27,7 @@
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb17Rs1s2qEfAawbKBGVdiGfc-tvKYfsva-fSY2eTKAgmUo17jNRF-nVBYSgj0bh8zX7pGP_NTOK2zumqPcqXHNbgLW5bdHgTFLg6YAchZ7zj9U6_ieJZlqKm2EmWCCsMrxP2mVOhjNxln8pSkdb4g0_iv9bRJVCsuc_FroPul3Tq_QSkzYifa-_-JQ0o/s1080/slotonline7.png" />
 <meta property="og:title" content="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" />
 <meta property="og:description" content="CEPATHOKI88 adalah situs slot gacor hari ini terpercaya serta penyokong link judi slot online terbaru gampang menang dengan pola gacor terupdate mantap.">
-<meta property="og:url" content="https://store.incogiagroup.com/" />
+<meta property="og:url" content="https://development.resolvebeyond.co.uk/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
 <meta name="twitter:card" content="summary_large_image" />
@@ -63,7 +63,7 @@
 <link rel="icon" href="../../wp-content/uploads/2022/11/cropped-BCI-icon-192x192.png" sizes="192x192"/>
 <link rel="apple-touch-icon" href="../../wp-content/uploads/2022/11/cropped-BCI-icon-180x180.png"/>
 <meta name="msapplication-TileImage" content="https://skillscenterstl.com/wp-content/uploads/2022/11/cropped-BCI-icon-270x270.png"/>
-<link rel="canonical" href="https://store.incogiagroup.com/" />
+<link rel="canonical" href="https://development.resolvebeyond.co.uk/" />
 <link rel="dns-prefetch" href="twitter.com">
 
     <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
@@ -294,31 +294,31 @@ var rl_adx_val = '';
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://store.incogiagroup.com/#breadcrumb",
+      "@id": "https://development.resolvebeyond.co.uk/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Slot online",
-          "item": "https://store.incogiagroup.com/"
+          "item": "https://development.resolvebeyond.co.uk/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "CEPATHOKI88",
-          "item": "https://store.incogiagroup.com/"
+          "item": "https://development.resolvebeyond.co.uk/"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://store.incogiagroup.com/#webpage",
-      "url": "https://store.incogiagroup.com/",
+      "@id": "https://development.resolvebeyond.co.uk/#webpage",
+      "url": "https://development.resolvebeyond.co.uk/",
       "name": "CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026",
       "description": "CEPATHOKI88 adalah agen slot online dengan min deposit hanya 5k dengan bonus harian 2026. Nikmati pilihan game dari berbagai provide dengan transaksi cepat, dan info rtp akurat 24 jam non-stop.",
       "isPartOf": { "@id": "https://skillscenterstl.com/#website" },
       "about": { "@id": "https://skillscenterstl.com/#org" },
-      "breadcrumb": { "@id": "https://store.incogiagroup.com/#breadcrumb" },
+      "breadcrumb": { "@id": "https://development.resolvebeyond.co.uk/#breadcrumb" },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://skillscenterstl.com/ast/presiden-slot.webp"
@@ -327,10 +327,10 @@ var rl_adx_val = '';
     },
     {
       "@type": "Article",
-      "@id": "https://store.incogiagroup.com/#article",
+      "@id": "https://development.resolvebeyond.co.uk/#article",
       "headline": "CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026",
       "description": "CEPATHOKI88 adalah agen slot online dengan min deposit hanya 5k dengan bonus harian 2026. Nikmati pilihan game dari berbagai provide dengan transaksi cepat, dan info rtp akurat 24 jam non-stop.",
-      "mainEntityOfPage": { "@id": "https://store.incogiagroup.com/#webpage" },
+      "mainEntityOfPage": { "@id": "https://development.resolvebeyond.co.uk/#webpage" },
       "publisher": { "@id": "https://skillscenterstl.com/#org" },
       "image": [
         "https://skillscenterstl.com/ast/presiden-slot.webp",
@@ -340,11 +340,11 @@ var rl_adx_val = '';
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://store.incogiagroup.com/#app",
+      "@id": "https://development.resolvebeyond.co.uk/#app",
       "name": "CEPATHOKI88",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
-      "url": "https://store.incogiagroup.com/",
+      "url": "https://development.resolvebeyond.co.uk/",
       "image": "https://skillscenterstl.com/ast/presiden-slot.webp",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -444,7 +444,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="row col-offset-fluid clearfix">
                 <div class="col-bs10-5 clearfix">
                     <div class="logo">
-                        <a href="https://store.incogiagroup.com/" data-google-interstitial="false">
+                        <a href="https://development.resolvebeyond.co.uk/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
                                                                                                             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026">
@@ -458,7 +458,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <!-- search -->
                     <div class="col-bs12-8 col-offset-0">
                         <div class="header-search-box">
-                            <form action="https://store.incogiagroup.com/" class="header-search"
+                            <form action="https://development.resolvebeyond.co.uk/" class="header-search"
                                 id="fcSearch">
                                 <div class="searchBox-wrap">
                                     <input type="text" name="q" class="header-search-input" value=""
@@ -576,7 +576,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://store.incogiagroup.com/"><img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" /></a>
+                                    <a href="https://development.resolvebeyond.co.uk/"><img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" /></a>
                             </div>
 
               
@@ -1581,7 +1581,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://store.incogiagroup.com/">CEPATHOKI88</a></div>
+                <div class="read__time"><a href="https://development.resolvebeyond.co.uk/">CEPATHOKI88</a></div>
             </div>
               
             <div class="col-bs10-10">            </div>
@@ -1627,8 +1627,8 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <div class="clearfix">
 <p>
 </p><h2><strong>CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026</strong></h2>
-<p style="text-align: justify;">Di tengah ramainya dunia slot online, <a href="https://store.incogiagroup.com/" style="color:#0400e7;">CEPATHOKI88</a> hadir sebagai pilihan tepat bagi pemain yang mengutamakan kenyamanan, keamanan, dan kualitas layanan. Bukan hanya soal banyaknya game atau bonus yang ditawarkan, CEPATHOKI88 dikenal luas sebagai slot online resmi dengan pelayanan bintang 5 yang benar-benar terasa sejak pertama kali bermain.</p>
-<p style="text-align: justify;">Salah satu keunggulan utama <a href="https://store.incogiagroup.com/" style="color:#0400e7;">CEPATHOKI88</a> terletak pada pelayanan profesional yang responsif dan ramah. Tim customer service siap membantu pemain kapan saja dengan respon cepat dan solusi yang jelas. Mulai dari pendaftaran, transaksi, hingga kendala teknis, semuanya ditangani dengan serius tanpa membuat pemain menunggu lama. Inilah yang membuat banyak pemain merasa betah dan percaya.</p>
+<p style="text-align: justify;">Di tengah ramainya dunia slot online, <a href="https://development.resolvebeyond.co.uk/" style="color:#0400e7;">CEPATHOKI88</a> hadir sebagai pilihan tepat bagi pemain yang mengutamakan kenyamanan, keamanan, dan kualitas layanan. Bukan hanya soal banyaknya game atau bonus yang ditawarkan, CEPATHOKI88 dikenal luas sebagai slot online resmi dengan pelayanan bintang 5 yang benar-benar terasa sejak pertama kali bermain.</p>
+<p style="text-align: justify;">Salah satu keunggulan utama <a href="https://development.resolvebeyond.co.uk/" style="color:#0400e7;">CEPATHOKI88</a> terletak pada pelayanan profesional yang responsif dan ramah. Tim customer service siap membantu pemain kapan saja dengan respon cepat dan solusi yang jelas. Mulai dari pendaftaran, transaksi, hingga kendala teknis, semuanya ditangani dengan serius tanpa membuat pemain menunggu lama. Inilah yang membuat banyak pemain merasa betah dan percaya.</p>
 <p style="text-align: justify;">CEPATHOKI88 hadir sebagai situs slot online resmi yang buka 24 jam setiap hari untuk pemain yang ingin akses cepat kapan pun dibutuhkan. Kamu bisa menikmati pilihan permainan dari berbagai provider dengan tampilan ringan dan navigasi yang mudah dipahami, cocok untuk pemula maupun pemain lama. Proses daftar, login, deposit, dan withdraw dibuat ringkas, dengan dukungan layanan pelanggan yang siap membantu ketika ada kendala.</p>
 <p style="text-align: justify;">Di tahun 2026, CEPATHOKI88 fokus pada promo yang aktif setiap hari, mulai dari bonus harian hingga event periode tertentu sesuai syarat yang berlaku. Transaksi dirancang cepat agar kamu tidak membuang waktu saat ingin bermain. Selain itu, tersedia info RTP yang diperbarui agar kamu bisa memilih game dengan lebih terarah. Atur batas bermain dengan bijak, manfaatkan promo secara tepat, dan nikmati pengalaman yang praktis setiap saat.</p>
 
@@ -1722,7 +1722,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="footerCol-column">
 
                 <div class="footerLogo">
-                    <a href="https://store.incogiagroup.com/" data-google-interstitial="false">
+                    <a href="https://development.resolvebeyond.co.uk/" data-google-interstitial="false">
                         <img class="lozad fade" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" width="207" height="26" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" data-loaded="true" />
                     </a>
                 </div>
@@ -2519,7 +2519,7 @@ if (onSubmitNps !== null) {
 
 <script async="" src="https://accounts.google.com/gsi/client" defer type="text/javascript"></script>
 <script type="text/javascript">
-    var url_continue = "https://store.incogiagroup.com/";
+    var url_continue = "https://development.resolvebeyond.co.uk/";
     
     function oneTapShow(tipe='') {
         let otd = document.getElementById('kgmModal-onetap')
@@ -2771,7 +2771,7 @@ if (onSubmitNps !== null) {
             }
         };
         var data = JSON.stringify({
-            "pageurl" : "https://store.incogiagroup.com/",
+            "pageurl" : "https://development.resolvebeyond.co.uk/",
             "pagetype" : "baca-juga"
         });
         xhr_auto_baca_juga.send(data);
