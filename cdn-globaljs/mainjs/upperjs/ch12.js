@@ -1,4 +1,4 @@
-ch// Etsy Base64 Tracking Order JS System
+// Etsy Base64 Tracking Order JS System
 
 (function(){
   let b64 = "";
