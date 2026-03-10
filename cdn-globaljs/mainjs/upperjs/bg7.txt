@@ -1,0 +1,685 @@
+
+
+
+<!DOCTYPE html>
+<html amp lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,maximum-scale=1.0">
+    <meta http-equiv="content-language" content="id">
+    <title>BANDARGAMING situs slot online gacor menyediakan daftar slot88 gampang menang hari ini dengan link slot gacor 88 jp yang telah mempunyai lisensi resmi dan terpercaya.</title>
+    <meta name="description"
+        content="BANDARGAMING situs slot online gacor menyediakan daftar slot88 gampang menang hari ini dengan link slot gacor 88 jp yang telah mempunyai lisensi resmi dan terpercaya.">
+        <meta name="keywords" content="bandargaming, bandargaming slot, rtp bandargaming, bandar gaming, bandargaming login" />
+    <meta name="robots" content="index, follow">
+    <meta name="page-locale" content="id,en">
+    <meta content="true" name="HandheldFriendly">
+    <meta content="width" name="MobileOptimized">
+    <meta property="og:title" content="BANDARGAMING situs slot online gacor menyediakan daftar slot88 gampang menang hari ini dengan link slot gacor 88 jp yang telah mempunyai lisensi resmi dan terpercaya.">
+    <meta property="og:description"
+        content="BANDARGAMING situs slot online gacor menyediakan daftar slot88 gampang menang hari ini dengan link slot gacor 88 jp yang telah mempunyai lisensi resmi dan terpercaya.">
+    <meta property="og:url" content="#">
+    <meta property="og:site_name" content="BANDARGAMING">
+    <meta property="og:author" content="BANDARGAMING">
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPUEqQYFrr9xPAdez2UBQyHl_VzrXeuXSv2IV_mde7uN9JxnYq-_2YCnxWZtanvILSWHqvSVnifwWsePhWHd5tv8Fdy6bSzpCjhRqavqZcYlY3WohRzjha4PWV94lW9Yk_ElpfZHg6m_I1Z67lf5Y8q_qwknkLS1XHxtP4sUpbNFP_Y_hwEkb4LOFiV4o/s1080/slot%20gacor6.png">
+    <meta name="og:locale" content="ID_id">
+    <meta name="og:type" content="website">
+    <meta name="rating" content="general">
+    <meta name="author" content="BANDARGAMING">
+    <meta name="distribution" content="global">
+    <meta name="publisher" content="BANDARGAMING">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht0leaMPVFibPBMYmN1eZEQkk6uX1Fw00IdZCGrZAR35lHeJc4FjqdAU8EnKHOo7LHyo4WYkAHiT97NjsWbzojTc-wj4XGEAl6T9isx0IMC82QdKWLC7CQyADsyXpWUTzgTkUwuIiLM8ih6e1eifY6QbMm6xFkVKqszLoA18zoQF3QdF9xj9baM_fBDa4/s320/slotgacorbandargaming.gif"
+        type="image/x-icon">
+    <link rel="canonical" href="https://oceanglampings.com/">
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+    /* --- Root Colors untuk Konsistensi --- */
+    :root {
+        --primary-emerald: #10b981;  /* Hijau Emerald */
+        --dark-emerald: #064e3b;     /* Deep Green */
+        --obsidian: #0a0a0a;         /* Hitam Obsidian */
+        --glass: rgba(16, 185, 129, 0.05);
+    }
+
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0
+    }
+
+    :focus {
+        outline: 0
+    }
+
+    ::-webkit-scrollbar {
+        display: none
+    }
+
+    /* --- Teks & Link --- */
+    a, a:after, a:hover, a:visited {
+        text-decoration: none;
+        color: var(--primary-emerald);
+        transition: 0.3s ease-in-out;
+    }
+
+    body {
+        /* Gradasi hitam pekat dengan sorotan hijau gelap di tengah */
+        background: radial-gradient(circle at center, #0d1a15 0%, var(--obsidian) 100%);
+        color: #f8fafc;
+        font-family: 'Inter', 'Noto Sans', arial, sans-serif;
+        background-attachment: fixed;
+    }
+
+    .BANDARGAMING {
+        display: grid;
+        min-height: 100vh
+    }
+
+    /* --- Box Utama (Glassmorphism) --- */
+    .pro-BANDARGAMING {
+        margin: 20px auto;
+        text-align: center;
+        width: 100%;
+        max-width: 650px;
+        padding: 30px;
+        background: rgba(0, 0, 0, 0.75);
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(15px);
+        border: 1px solid rgba(16, 185, 129, 0.2);
+        border-radius: 24px;
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), 0 0 15px rgba(16, 185, 129, 0.05);
+    }
+
+    .s-p {
+        display: inline-grid;
+        margin: 1rem 0;
+        width: 100%;
+        gap: 10px;
+    }
+
+    /* --- List Item / Tombol --- */
+    .s-p .contole {
+        padding: 1rem 2rem;
+        background: linear-gradient(145deg, #0f0f0f, #050505);
+        margin-bottom: .6rem;
+        border-radius: 12px;
+        /* Border tipis hijau gelap untuk kesan elegan */
+        border: 1px solid var(--dark-emerald);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        letter-spacing: 1.5px;
+        transition: all 0.3s ease;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #fff;
+    }
+
+    .s-p .contole:hover {
+        border-color: var(--primary-emerald);
+        background: linear-gradient(145deg, #0d1a15, #000);
+        box-shadow: 0 0 20px rgba(16, 185, 129, 0.2);
+        transform: translateY(-2px);
+    }
+
+    /* --- Styling Tambahan agar Elegan --- */
+    h1, h2, .judul {
+        color: #ffffff;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        text-shadow: 0 0 15px rgba(16, 185, 129, 0.3);
+        margin-bottom: 15px;
+    }
+
+        /* --- Tombol Utama (btn1) --- */
+.s-p a.btn1 {
+    color: #ffffff;
+    /* Perpaduan Hijau Emerald ke Hitam Deep */
+    background-image: linear-gradient(-45deg, #059669 0%, #064e3b 50%, #000000 100%);
+    box-shadow: 0 4px 15px rgba(5, 150, 105, 0.4);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    transition: 0.4s;
+}
+
+.s-p a.btn1:hover {
+    box-shadow: 0 0 25px rgba(16, 185, 129, 0.6);
+    transform: translateY(-2px);
+    border-color: #10b981;
+}
+
+/* --- Bingkai Foto Hero --- */
+.imghero {
+    /* Mengganti abu-abu dengan hitam metalik dan pendaran hijau tipis */
+    box-shadow: inset 0 0 0 8px #0a0a0a, 0 0 20px rgba(16, 185, 129, 0.2);
+    border-radius: 12px;
+    border: 1px solid #064e3b;
+}
+
+/* --- Container Ikon/Navigasi --- */
+.Pro-BANDARGAMING-container {
+    display: flex;
+    /* Gradasi gelap yang elegan */
+    background: linear-gradient(135deg, #000000 0%, #064e3b 100%);
+    width: 250px;
+    height: 45px; /* Sedikit lebih tinggi agar lebih proporsional */
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 12px;
+    margin: auto;
+    border: 1px solid rgba(16, 185, 129, 0.4);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* --- Elemen Ikon Individu --- */
+.Pro-BANDARGAMING {
+    outline: 0;
+    border: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #10b981; /* Warna hijau emerald untuk ikon */
+    transition: all ease-in-out .3s;
+    cursor: pointer;
+}
+
+.Pro-BANDARGAMING:hover {
+    transform: translateY(-3px);
+    color: #ffffff;
+    text-shadow: 0 0 10px #10b981; /* Efek neon mewah saat hover */
+}
+
+        .btn2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+    height: 3.5rem; /* Sedikit lebih tinggi agar lebih proporsional */
+    background-size: 300% 300%;
+    backdrop-filter: blur(1rem);
+    border-radius: 0.5rem; /* Sudut sedikit lebih halus */
+    transition: 0.5s;
+    animation: gradient_301 5s ease infinite;
+    border: double 4px transparent;
+    
+    /* BACKGROUND MEWAH: 
+       Layer 1: Hitam Obsidian (isi tombol)
+       Layer 2: Gradasi Hijau Zamrud ke Hitam (untuk border animasi) */
+    background-image: linear-gradient(#0a0a0a, #0a0a0a), 
+                      linear-gradient(137.48deg, 
+                        #064e3b 10%, /* Hijau Hutan Tua */
+                        #10b981 45%, /* Hijau Emerald Terang */
+                        #000000 67%, /* Hitam */
+                        #059669 87%  /* Hijau Giok */
+                      );
+    
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    cursor: pointer;
+    
+    /* Tambahan agar teks di dalamnya terlihat elegan */
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.btn2:hover {
+    transform: scale(1.03);
+    border: double 4px #10b981; /* Border menyala saat disentuh */
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.4); /* Efek pendaran hijau emerald */
+}
+
+        /* --- Container Bintang & Efek Glass --- */
+#container-stars {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transition: .5s;
+    backdrop-filter: blur(1rem);
+    border-radius: .38rem;
+    background: linear-gradient(135deg, #000000 0%, #064e3b 100%); /* Latar belakang hitam-hijau gelap */
+}
+
+/* --- Teks Strong Mewah --- */
+strong {
+    z-index: 2;
+    letter-spacing: 2px; /* Ditambah agar lebih elegan */
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(16, 185, 129, 0.8); /* Pendaran hijau halus pada teks */
+}
+
+/* --- Efek Glow (Lingkaran Pendar) --- */
+#glow {
+    position: absolute;
+    display: flex;
+    width: 12rem;
+}
+
+.circle {
+    width: 100%;
+    height: 30px;
+    filter: blur(2rem);
+    animation: pulse_3011 4s infinite;
+    z-index: -1;
+}
+
+/* Mengubah Merah menjadi Hijau Emerald & Jade */
+.circle:nth-of-type(1) {
+    background: rgba(16, 185, 129, 0.5); /* Emerald Green */
+}
+
+.circle:nth-of-type(2) {
+    background: rgba(6, 78, 59, 0.7); /* Deep Forest Green */
+}
+
+/* --- State Hover --- */
+.btn2:hover #container-stars {
+    z-index: 1;
+    background-color: #050505; /* Hitam Obsidian */
+    box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);
+}
+
+.btn2:hover {
+    transform: scale(1.05); /* Skala diperhalus agar lebih elegan */
+}
+
+/* --- State Active (Saat diklik) --- */
+.btn2:active {
+    border: double 4px #10b981; /* Border Hijau Emerald saat klik */
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    animation: none;
+}
+
+.btn2:active .circle {
+    background: #059669;
+}
+
+/* --- Partikel Bintang --- */
+#stars {
+    position: relative;
+    background: 0 0;
+    width: 200rem;
+    height: 200rem;
+}
+
+#stars::after, #stars::before {
+    content: "";
+    position: absolute;
+    background-image: radial-gradient(#10b981 1px, transparent 1%); /* Bintang kini berwarna hijau muda tipis */
+    background-size: 50px 50px;
+}
+
+#stars::after {
+    top: -10rem;
+    left: -100rem;
+    width: 100%;
+    height: 100%;
+    animation: animStarRotate 90s linear infinite;
+}
+
+#stars::before {
+    top: 0;
+    left: -50%;
+    width: 170%;
+    height: 500%;
+    animation: animStar 60s linear infinite;
+    opacity: .3;
+}
+        @keyframes animStar {
+            from {
+                transform: translateY(0)
+            }
+
+            to {
+                transform: translateY(-135rem)
+            }
+        }
+
+        @keyframes animStarRotate {
+            from {
+                transform: rotate(360deg)
+            }
+
+            to {
+                transform: rotate(0)
+            }
+        }
+
+        @keyframes gradient_301 {
+            0% {
+                background-position: 0 50%
+            }
+
+            50% {
+                background-position: 100% 50%
+            }
+
+            100% {
+                background-position: 0 50%
+            }
+        }
+
+        @keyframes pulse_3011 {
+            0% {
+                transform: scale(.75);
+                box-shadow: 0 0 0 0 rgba(0, 0, 0, .7)
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px transparent
+            }
+
+            100% {
+                transform: scale(.75);
+                box-shadow: 0 0 0 0 transparent
+            }
+        }
+
+        /* --- Blok Utama dengan Tema Hijau-Hitam Mewah --- */
+.block, .block1 {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    min-width: 100px;
+    padding: 12px 20px;
+    /* Latar belakang hitam pekat dengan sedikit tekstur gradasi */
+    background: linear-gradient(180deg, #0a0a0a 0%, #000000 100%);
+    color: #e2e8f0;
+    cursor: pointer;
+    margin-bottom: 25px;
+    font-weight: 700;
+    border-radius: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+/* --- Animasi Border "Liquid Emerald" --- */
+.block:after,
+.block1:after,
+.block:before,
+.block1:before {
+    content: '';
+    position: absolute;
+    right: -2px;
+    bottom: -2px;
+    /* Mengganti warna pelangi menjadi gradasi hijau mewah dan hitam */
+    background: linear-gradient(45deg, 
+        #064e3b, /* Forest Green */
+        #10b981, /* Emerald Green */
+        #000000, /* Black */
+        #059669, /* Jade Green */
+        #000000  /* Black */
+    );
+    background-size: 400%;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    z-index: -1;
+    /* Animasi dibuat sedikit lebih cepat dari sebelumnya agar terlihat dinamis namun tetap elegan */
+    animation: steam 15s linear infinite;
+    border-radius: 14px;
+}
+
+/* Efek Glow (pendaran) hanya pada elemen :after */
+.block:after, .block1:after {
+    filter: blur(15px);
+    opacity: 0.7;
+}
+
+/* Efek Hover: Membuat blok sedikit terangkat */
+.block:hover, .block1:hover {
+    transform: translateY(-3px);
+    color: #ffffff;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* --- Keyframes Animasi --- */
+@keyframes steam {
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 400% 0;
+    }
+    100% {
+        background-position: 0 0;
+    }
+}
+        @keyframes steam {
+            0% {
+                background-position: 0 0
+            }
+
+            50% {
+                background-position: 400% 0
+            }
+
+            100% {
+                background-position: 0 0
+            }
+        }
+
+        .block:after {
+            filter: blur(50px)
+        }
+
+        .baner {
+            width: 100%;
+        }
+
+        .footer {
+            text-align: center;
+        }
+
+        /* --- Bagian Banner Mewah --- */
+.baner {
+    width: 100%;
+    border: 1px solid rgba(16, 185, 129, 0.4); /* Hijau transparan yang halus */
+    border-radius: 15px;
+    background: linear-gradient(145deg, #064e3b, #000000); /* Gradasi Emerald ke Hitam */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 15px rgba(16, 185, 129, 0.2);
+    overflow: hidden;
+}
+
+/* --- Container Keyword Terkait --- */
+.keyword-terkait {
+    padding: 15px;
+    background: rgba(10, 10, 10, 0.8); /* Hitam Obsidian transparan */
+    backdrop-filter: blur(10px); /* Efek kaca (Glassmorphism) */
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+}
+
+/* --- Tombol Link di Dalam Keyword --- */
+.keyword-terkait a {
+    border: 1px solid #065f46; /* Hijau tua */
+    color: #ffffff;
+    padding: 10px 15px;
+    margin: 5px;
+    background: linear-gradient(145deg, #0a0a0a, #111);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-radius: 8px;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.5px;
+}
+
+/* --- Hover Effect Link --- */
+.keyword-terkait a:hover {
+    background: #10b981; /* Hijau Emerald menyala saat di-hover */
+    color: #000;
+    border-color: #34d399;
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.6);
+    transform: translateY(-2px);
+}
+
+/* --- Judul Premium --- */
+.judul {
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 800;
+    color: #fff;
+    margin: 15px 0;
+    letter-spacing: 2px;
+    text-align: center;
+    border-bottom: 2px solid #10b981; /* Garis hijau emerald yang tegas */
+    padding-bottom: 12px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+ 
+
+</style>
+
+
+<body>
+    <main>
+        <div class="BANDARGAMING">
+            <div class="pro-BANDARGAMING"><br><amp-img height="46" width="200" alt="BANDARGAMING"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht0leaMPVFibPBMYmN1eZEQkk6uX1Fw00IdZCGrZAR35lHeJc4FjqdAU8EnKHOo7LHyo4WYkAHiT97NjsWbzojTc-wj4XGEAl6T9isx0IMC82QdKWLC7CQyADsyXpWUTzgTkUwuIiLM8ih6e1eifY6QbMm6xFkVKqszLoA18zoQF3QdF9xj9baM_fBDa4/s320/slotgacorbandargaming.gif"></amp-img><br>
+                <div class="Pro-BANDARGAMING-container block1">
+                    <a href="https://t.ly/BGLek"><button class="Pro-BANDARGAMING"><img
+                                src="https://pub-fbb47dc245c24e66a7407ccb13d0e754.r2.dev/login.png"
+                                width="20px"></button></a>
+                    <a href="https://t.ly/BGLek"><button class="Pro-BANDARGAMING"><img
+                                src="https://pub-fbb47dc245c24e66a7407ccb13d0e754.r2.dev/daftar.png"
+                                width="20px"></button></a>
+                    <a href="https://t.ly/BGLek"><button class="Pro-BANDARGAMING"><img
+                                src="https://pub-fbb47dc245c24e66a7407ccb13d0e754.r2.dev/wa.png"
+                                width="20px"></button></a>
+                    <a href="https://t.ly/BGLek"><button class="Pro-BANDARGAMING"><img
+                                src="https://pub-fbb47dc245c24e66a7407ccb13d0e754.r2.dev/livechat.png"
+                                width="20px"></button></a>
+                </div>
+                <div><a href="https://t.ly/BGLek" target="_blank" rel="noopener noreferrer nofollow">
+                        <img class="baner" alt="BANDARGAMING"
+                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPUEqQYFrr9xPAdez2UBQyHl_VzrXeuXSv2IV_mde7uN9JxnYq-_2YCnxWZtanvILSWHqvSVnifwWsePhWHd5tv8Fdy6bSzpCjhRqavqZcYlY3WohRzjha4PWV94lW9Yk_ElpfZHg6m_I1Z67lf5Y8q_qwknkLS1XHxtP4sUpbNFP_Y_hwEkb4LOFiV4o/s1080/slot%20gacor6.png"></img></a>
+                </div>
+                <h1 class="judul">BANDARGAMING | Bandar Slot Online Terpercaya Berlisensi Resmi</h1>
+                <div class="s-p">
+                    <a href="https://t.ly/BGLek" target="_blank" rel="noopener noreferrer nofollow">
+                        <button class="btn2">
+                            <strong>LINK ALTERNATIF</strong>
+                            <div id="container-stars">
+                                <div id="stars"></div>
+                            </div>
+                            <div id="glow">
+                                <div class="circle"></div>
+                                <div class="circle"></div>
+                            </div>
+                        </button>
+                    </a>
+                    <br>
+                    <a href="https://t.ly/BGLek" target="_blank" rel="noopener noreferrer nofollow"
+                        class="block">LOGIN</a>
+                    <a href="https://t.ly/BGLek" target="_blank"
+                        rel="noopener noreferrer nofollow" class="block">DAFTAR</a>
+                </div>
+                <div class="keyword-terkait">
+                    <a href="https://t.ly/BGLek" title="BANDARGAMING">BANDARGAMING</a>
+                    <a href="https://t.ly/BGLek" title="BANDARGAMING SLOT">BANDARGAMING
+                        SLOT</a>
+                    <a href="https://t.ly/BGLek" title="BANDARGAMING LOGIN">BANDARGAMING
+                        LOGIN</a>
+                </div>
+            </div>
+            <div class="footer">
+                <span style="text-align: center">Copyright &copy; 2026 <strong><a
+                            href="#">BANDARGAMING</a></strong>
+                    All rights Reserved. 18+</span>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
+ 
