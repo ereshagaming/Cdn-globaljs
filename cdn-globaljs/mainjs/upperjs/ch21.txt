@@ -14,7 +14,7 @@
 <meta name="viewport" content="width=device-width">
 <meta content="CEPATHOKI88 merupakan situs yang menyediakan slot gacor hari ini terpercaya yang telah terbukti resmi dengan permainan slot88 gampang menang bagi seluruh member baik yang baru maupun member setia." name="description"/>
 <meta content="cepathoki88, cepathoki888, cepathoki88 slot, rtp cepathoki88, cepathoki88 alternatif, cepathoki88 login, mahjong, slot mahjong, slot gacor, slot88, mahjong slot, situs slot, situs gacor, link gacor, slot gacor hari ini, slot viral, slot gampang menang, slot online, judi slot, judi slot online, situs judi slot, situs judi slot online, link alternatif, link alternatif slot, link alternatif judi slot, link alternatif slot online, link alternatif judi slot online" name="keywords"/>
-<link rel="prefetch" href="https://fmeaddons.net/" as="document"/>
+<link rel="prefetch" href="https://extendons.net/" as="document"/>
 <link rel="amphtml" href="https://cepathokiblay21.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
@@ -29,7 +29,7 @@
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdltjpzkJuCRGjw986aaPf0AFNUDcizGGwQSEZhd9vIr45QoRcZkRUSwREDHi6A8cQKHakcsIgC2A54K3BTgf8sCt4eDqNhvKx4weq3l3xNBBHBAlKS5LC4YXaixf8_VpSxj53u8GbvVldMfi9y3ijiaGIcSjS5RajDyViQ2RvCPfFVkXyKbc2SKyLncs/s1080/slotresmi2.png" />
 <meta property="og:title" content="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" />
 <meta property="og:description" content="CEPATHOKI88 merupakan situs yang menyediakan slot gacor hari ini terpercaya yang telah terbukti resmi dengan permainan slot88 gampang menang bagi seluruh member baik yang baru maupun member setia.">
-<meta property="og:url" content="https://fmeaddons.net/" />
+<meta property="og:url" content="https://extendons.net/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
 <meta name="twitter:card" content="summary_large_image" />
@@ -65,7 +65,7 @@
 <link rel="icon" href="../../wp-content/uploads/2022/11/cropped-BCI-icon-192x192.png" sizes="192x192"/>
 <link rel="apple-touch-icon" href="../../wp-content/uploads/2022/11/cropped-BCI-icon-180x180.png"/>
 <meta name="msapplication-TileImage" content="https://skillscenterstl.com/wp-content/uploads/2022/11/cropped-BCI-icon-270x270.png"/>
-<link rel="canonical" href="https://fmeaddons.net/" />
+<link rel="canonical" href="https://extendons.net/" />
 <link rel="dns-prefetch" href="twitter.com">
 
     <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
@@ -296,31 +296,31 @@ var rl_adx_val = '';
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://fmeaddons.net/#breadcrumb",
+      "@id": "https://extendons.net/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Slot online",
-          "item": "https://fmeaddons.net/"
+          "item": "https://extendons.net/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "CEPATHOKI88",
-          "item": "https://fmeaddons.net/"
+          "item": "https://extendons.net/"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://fmeaddons.net/#webpage",
-      "url": "https://fmeaddons.net/",
+      "@id": "https://extendons.net/#webpage",
+      "url": "https://extendons.net/",
       "name": "CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026",
       "description": "CEPATHOKI88 adalah agen slot online dengan min deposit hanya 5k dengan bonus harian 2026. Nikmati pilihan game dari berbagai provide dengan transaksi cepat, dan info rtp akurat 24 jam non-stop.",
       "isPartOf": { "@id": "https://skillscenterstl.com/#website" },
       "about": { "@id": "https://skillscenterstl.com/#org" },
-      "breadcrumb": { "@id": "https://fmeaddons.net/#breadcrumb" },
+      "breadcrumb": { "@id": "https://extendons.net/#breadcrumb" },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://skillscenterstl.com/ast/presiden-slot.webp"
@@ -329,10 +329,10 @@ var rl_adx_val = '';
     },
     {
       "@type": "Article",
-      "@id": "https://fmeaddons.net/#article",
+      "@id": "https://extendons.net/#article",
       "headline": "CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026",
       "description": "CEPATHOKI88 adalah agen slot online dengan min deposit hanya 5k dengan bonus harian 2026. Nikmati pilihan game dari berbagai provide dengan transaksi cepat, dan info rtp akurat 24 jam non-stop.",
-      "mainEntityOfPage": { "@id": "https://fmeaddons.net/#webpage" },
+      "mainEntityOfPage": { "@id": "https://extendons.net/#webpage" },
       "publisher": { "@id": "https://skillscenterstl.com/#org" },
       "image": [
         "https://skillscenterstl.com/ast/presiden-slot.webp",
@@ -342,11 +342,11 @@ var rl_adx_val = '';
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://fmeaddons.net/#app",
+      "@id": "https://extendons.net/#app",
       "name": "CEPATHOKI88",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
-      "url": "https://fmeaddons.net/",
+      "url": "https://extendons.net/",
       "image": "https://skillscenterstl.com/ast/presiden-slot.webp",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -446,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="row col-offset-fluid clearfix">
                 <div class="col-bs10-5 clearfix">
                     <div class="logo">
-                        <a href="https://fmeaddons.net/" data-google-interstitial="false">
+                        <a href="https://extendons.net/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
                                                                                                             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026">
@@ -460,7 +460,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <!-- search -->
                     <div class="col-bs12-8 col-offset-0">
                         <div class="header-search-box">
-                            <form action="https://fmeaddons.net/" class="header-search"
+                            <form action="https://extendons.net/" class="header-search"
                                 id="fcSearch">
                                 <div class="searchBox-wrap">
                                     <input type="text" name="q" class="header-search-input" value=""
@@ -578,7 +578,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://fmeaddons.net/"><img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" /></a>
+                                    <a href="https://extendons.net/"><img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" /></a>
                             </div>
 
               
@@ -1583,7 +1583,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://fmeaddons.net/">CEPATHOKI88</a></div>
+                <div class="read__time"><a href="https://extendons.net/">CEPATHOKI88</a></div>
             </div>
               
             <div class="col-bs10-10">            </div>
@@ -1738,7 +1738,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="footerCol-column">
 
                 <div class="footerLogo">
-                    <a href="https://fmeaddons.net/" data-google-interstitial="false">
+                    <a href="https://extendons.net/" data-google-interstitial="false">
                         <img class="lozad fade" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" alt="CEPATHOKI88 - Situs Slot Online Resmi Buka 24 Jam Setiap Hari Terbaru 2026" width="207" height="26" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KSvo14NglbMfdYgz8uLS6Ci6mzMKHQhIDZGvKGFli2bON6u-l0ECIm2Zvx2giPBBtmyyDoH1ioeUhBwNvznTw68cHqIiReirEMrfLVY90mVM1pT0ajR5xRHXNoJlZgP5xINkvbMC5r3_wA7YxAaoOHXTlSTvdy1gn1Un0hikJs_WVO5BSxIt530wJvQ/s1024/CEPATHOKI88.png" data-loaded="true" />
                     </a>
                 </div>
@@ -2535,7 +2535,7 @@ if (onSubmitNps !== null) {
 
 <script async="" src="https://accounts.google.com/gsi/client" defer type="text/javascript"></script>
 <script type="text/javascript">
-    var url_continue = "https://fmeaddons.net/";
+    var url_continue = "https://extendons.net/";
     
     function oneTapShow(tipe='') {
         let otd = document.getElementById('kgmModal-onetap')
@@ -2787,7 +2787,7 @@ if (onSubmitNps !== null) {
             }
         };
         var data = JSON.stringify({
-            "pageurl" : "https://fmeaddons.net/",
+            "pageurl" : "https://extendons.net/",
             "pagetype" : "baca-juga"
         });
         xhr_auto_baca_juga.send(data);
