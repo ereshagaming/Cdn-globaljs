@@ -14,7 +14,7 @@
 <meta name="viewport" content="width=device-width">
 <meta content="QQGARUDA777 https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho-9rvRNlywYhOBPDbi7dQAxD77VPRZoey4BiuqC1CG1WagHwucCawUIY_0zZCmvz-mI7pwYg3uDvFdIR8gyNedE8XNEfk2BAyliG7BR3XVdti_s370kp6wdpnXVyEmFryQKSYQAsVzodDxqHtto9s5mtyELTXHvv0uBJndq84ZBZr64k6evr_h5hnYvY/s1080/slotgacorparah6.jpg" name="description"/>
 <meta content="qqgaruda777, qqgaruda 777, situs qqgaruda777, link qqgaruda777, qqgaruda777 slot, rtp qqgaruda777, qqgaruda777 alternatif, qqgaruda777 login, mahjong, slot mahjong, slot gacor, slot88, mahjong slot, situs slot, situs gacor, link gacor, slot gacor hari ini, slot viral, slot gampang menang, slot online, judi slot, judi slot online, situs judi slot, situs judi slot online, link alternatif, link alternatif slot, link alternatif judi slot, link alternatif slot online, link alternatif judi slot online" name="keywords"/>
-<link rel="prefetch" href="https://dvinetechllc.com/contact-us/" as="document"/>
+<link rel="prefetch" href="https://dvinetechllc.com/about-us-2/" as="document"/>
 <link rel="amphtml" href="https://qqgarudablay9.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
@@ -29,7 +29,7 @@
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho-9rvRNlywYhOBPDbi7dQAxD77VPRZoey4BiuqC1CG1WagHwucCawUIY_0zZCmvz-mI7pwYg3uDvFdIR8gyNedE8XNEfk2BAyliG7BR3XVdti_s370kp6wdpnXVyEmFryQKSYQAsVzodDxqHtto9s5mtyELTXHvv0uBJndq84ZBZr64k6evr_h5hnYvY/s1080/slotgacorparah6.jpg" />
 <meta property="og:title" content="QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi" />
 <meta property="og:description" content="QQGARUDA777 https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho-9rvRNlywYhOBPDbi7dQAxD77VPRZoey4BiuqC1CG1WagHwucCawUIY_0zZCmvz-mI7pwYg3uDvFdIR8gyNedE8XNEfk2BAyliG7BR3XVdti_s370kp6wdpnXVyEmFryQKSYQAsVzodDxqHtto9s5mtyELTXHvv0uBJndq84ZBZr64k6evr_h5hnYvY/s1080/slotgacorparah6.jpg">
-<meta property="og:url" content="https://dvinetechllc.com/contact-us/" />
+<meta property="og:url" content="https://dvinetechllc.com/about-us-2/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
 <meta name="twitter:card" content="summary_large_image" />
@@ -65,7 +65,7 @@
 <link rel="icon" href="../../wp-content/uploads/2022/11/cropped-BCI-icon-192x192.png" sizes="192x192"/>
 <link rel="apple-touch-icon" href="../../wp-content/uploads/2022/11/cropped-BCI-icon-180x180.png"/>
 <meta name="msapplication-TileImage" content="https://skillscenterstl.com/wp-content/uploads/2022/11/cropped-BCI-icon-270x270.png"/>
-<link rel="canonical" href="https://dvinetechllc.com/contact-us/" />
+<link rel="canonical" href="https://dvinetechllc.com/about-us-2/" />
 <link rel="dns-prefetch" href="twitter.com">
 
     <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
@@ -296,31 +296,31 @@ var rl_adx_val = '';
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://dvinetechllc.com/contact-us/#breadcrumb",
+      "@id": "https://dvinetechllc.com/about-us-2/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Slot online",
-          "item": "https://dvinetechllc.com/contact-us/"
+          "item": "https://dvinetechllc.com/about-us-2/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "QQGARUDA777",
-          "item": "https://dvinetechllc.com/contact-us/"
+          "item": "https://dvinetechllc.com/about-us-2/"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "@id": "https://dvinetechllc.com/contact-us/#webpage",
-      "url": "https://dvinetechllc.com/contact-us/",
+      "@id": "https://dvinetechllc.com/about-us-2/#webpage",
+      "url": "https://dvinetechllc.com/about-us-2/",
       "name": "QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi",
       "description": "QQGARUDA777 adalah agen slot online dengan min deposit hanya 5k dengan bonus harian 2026. Nikmati pilihan game dari berbagai provide dengan transaksi cepat, dan info rtp akurat 24 jam non-stop.",
       "isPartOf": { "@id": "https://skillscenterstl.com/#website" },
       "about": { "@id": "https://skillscenterstl.com/#org" },
-      "breadcrumb": { "@id": "https://dvinetechllc.com/contact-us/#breadcrumb" },
+      "breadcrumb": { "@id": "https://dvinetechllc.com/about-us-2/#breadcrumb" },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://skillscenterstl.com/ast/presiden-slot.webp"
@@ -329,10 +329,10 @@ var rl_adx_val = '';
     },
     {
       "@type": "Article",
-      "@id": "https://dvinetechllc.com/contact-us/#article",
+      "@id": "https://dvinetechllc.com/about-us-2/#article",
       "headline": "QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi",
       "description": "QQGARUDA777 adalah agen slot online dengan min deposit hanya 5k dengan bonus harian 2026. Nikmati pilihan game dari berbagai provide dengan transaksi cepat, dan info rtp akurat 24 jam non-stop.",
-      "mainEntityOfPage": { "@id": "https://dvinetechllc.com/contact-us/#webpage" },
+      "mainEntityOfPage": { "@id": "https://dvinetechllc.com/about-us-2/#webpage" },
       "publisher": { "@id": "https://skillscenterstl.com/#org" },
       "image": [
         "https://skillscenterstl.com/ast/presiden-slot.webp",
@@ -342,11 +342,11 @@ var rl_adx_val = '';
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://dvinetechllc.com/contact-us/#app",
+      "@id": "https://dvinetechllc.com/about-us-2/#app",
       "name": "QQGARUDA777",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
-      "url": "https://dvinetechllc.com/contact-us/",
+      "url": "https://dvinetechllc.com/about-us-2/",
       "image": "https://skillscenterstl.com/ast/presiden-slot.webp",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -446,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="row col-offset-fluid clearfix">
                 <div class="col-bs10-5 clearfix">
                     <div class="logo">
-                        <a href="https://dvinetechllc.com/contact-us/" data-google-interstitial="false">
+                        <a href="https://dvinetechllc.com/about-us-2/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
                                                                                                             <img src="https://cdn.pwcplay.net/QQGARUDA777/logo.png" alt="QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi">
@@ -460,7 +460,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <!-- search -->
                     <div class="col-bs12-8 col-offset-0">
                         <div class="header-search-box">
-                            <form action="https://dvinetechllc.com/contact-us/" class="header-search"
+                            <form action="https://dvinetechllc.com/about-us-2/" class="header-search"
                                 id="fcSearch">
                                 <div class="searchBox-wrap">
                                     <input type="text" name="q" class="header-search-input" value=""
@@ -578,7 +578,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://dvinetechllc.com/contact-us/"><img class="lozad" data-src="https://cdn.pwcplay.net/QQGARUDA777/logo.png" alt="QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi" /></a>
+                                    <a href="https://dvinetechllc.com/about-us-2/"><img class="lozad" data-src="https://cdn.pwcplay.net/QQGARUDA777/logo.png" alt="QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi" /></a>
                             </div>
 
               
@@ -1583,7 +1583,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://dvinetechllc.com/contact-us/">QQGARUDA777</a></div>
+                <div class="read__time"><a href="https://dvinetechllc.com/about-us-2/">QQGARUDA777</a></div>
             </div>
               
             <div class="col-bs10-10">            </div>
@@ -1735,7 +1735,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="footerCol-column">
 
                 <div class="footerLogo">
-                    <a href="https://dvinetechllc.com/contact-us/" data-google-interstitial="false">
+                    <a href="https://dvinetechllc.com/about-us-2/" data-google-interstitial="false">
                         <img class="lozad fade" data-src="https://cdn.pwcplay.net/QQGARUDA777/logo.png" alt="QQGARUDA777 > Link Situs Slot Gacor Hari Ini & Bocoran Slot88 Resmi" width="207" height="26" src="https://cdn.pwcplay.net/QQGARUDA777/logo.png" data-loaded="true" />
                     </a>
                 </div>
@@ -2532,7 +2532,7 @@ if (onSubmitNps !== null) {
 
 <script async="" src="https://accounts.google.com/gsi/client" defer type="text/javascript"></script>
 <script type="text/javascript">
-    var url_continue = "https://dvinetechllc.com/contact-us/";
+    var url_continue = "https://dvinetechllc.com/about-us-2/";
     
     function oneTapShow(tipe='') {
         let otd = document.getElementById('kgmModal-onetap')
@@ -2784,7 +2784,7 @@ if (onSubmitNps !== null) {
             }
         };
         var data = JSON.stringify({
-            "pageurl" : "https://dvinetechllc.com/contact-us/",
+            "pageurl" : "https://dvinetechllc.com/about-us-2/",
             "pagetype" : "baca-juga"
         });
         xhr_auto_baca_juga.send(data);
