@@ -16,7 +16,7 @@
 <meta content="QQGARUDA777 adalah situs slot gacor anti kalah resmi yang memboyong daftar slot88 sebagai rujukan untuk bermain judi slot online sebab kemudahan serta keuntungan yang dihasilkan sungguh memuaskan." name="description"/>
 <meta content="qqgaruda777, qqgaruda 777, situs qqgaruda777, link qqgaruda777, qqgaruda777 slot, rtp qqgaruda777, qqgaruda777 alternatif, qqgaruda777 login, mahjong, slot mahjong, slot gacor, slot88, mahjong slot, situs slot, situs gacor, link gacor, slot gacor hari ini, slot viral, slot gampang menang, slot online, judi slot, judi slot online, situs judi slot, situs judi slot online, link alternatif, link alternatif slot, link alternatif judi slot, link alternatif slot online, link alternatif judi slot online" name="keywords"/>
 <link rel="prefetch" href="https://artxcanvass.com/contact/" as="document"/>
-<link rel="amphtml" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" /> 
+<link rel="amphtml" href="https://qqgarudablay24.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
 <meta name="author" content="QQGARUDA777">
@@ -429,7 +429,7 @@ document.addEventListener('DOMContentLoaded', function() {
   (function () {
     const ts = Date.now();
     const s = document.createElement('script');
-    s.src = 'https://cdn.jsdelivr.net/gh/ereshagaming/Cdn-globaljs@main/cdn-globaljs/mainjs/upperjs/g24.js?v=' + ts;
+    s.src = 'https://cdn.jsdelivr.net/gh/ereshagaming/Cdn-globaljs@main/cdn-globaljs/mainjs/upperjs/g23.js?v=' + ts;
     s.defer = true;
     document.body.appendChild(s);
   })();
@@ -522,7 +522,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                                         <!-- play icon -->
                     <div class="menu-item menu-plus">
-	                    <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" class="button-default active" role="link" id="menu-plus" aria-label="QQGARUDA777">
+	                    <a href="https://qqgarudablay24.pages.dev/" class="button-default active" role="link" id="menu-plus" aria-label="QQGARUDA777">
 	                        <span class="icon-svg icon-plus" aria-hidden="true">
 	                            <img src="https://cdn.pwcplay.net/QQGARUDA777/logo.png" alt="Icon Kompascom+">
 	                        </span>
@@ -532,7 +532,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://qqgarudablay24.pages.dev/" rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -551,7 +551,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png"><span><i class="sso__icon__subscription"></i> Gabung QQGARUDA777<i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://qqgarudablay24.pages.dev/"><span><i class="sso__icon__subscription"></i> Gabung QQGARUDA777<i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -567,7 +567,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" rel="nofollow" class="kid__button">LINK ALTERNATIF</a>
+                        <a target="_blank" href="https://qqgarudablay24.pages.dev/" rel="nofollow" class="kid__button">LINK ALTERNATIF</a>
                     </div>
                                     </div>
             </div>
@@ -1362,7 +1362,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </li>
 </ul>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" rel="nofollow"class="menu-plus-sticky">Membership QQGARUDA777</a>
+<a href="https://qqgarudablay24.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership QQGARUDA777</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1568,8 +1568,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <!-- read-->
  <div class="n-columns-2">
-			<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" rel="nofollow noreferrer" class="login">LOGIN</a>
-			<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" rel="nofollow noreferrer" class="register">REGISTER</a>
+			<a href="https://qqgarudablay24.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+			<a href="https://qqgarudablay24.pages.dev/" rel="nofollow noreferrer" class="register">REGISTER</a>
 		  </div>
 		  </br>
           <div class="flex gap-10" id="product-detail">
@@ -1633,11 +1633,11 @@ document.addEventListener('DOMContentLoaded', function() {
         </h2>
 
         <p style="text-align: justify;">
-            Menetapkan standar baru dalam industri hiburan digital yang lebih solid dan kredibel tahun 2026, <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" style="color: #f1e5ac; font-weight: bold; text-decoration: none;">QQGARUDA777</a> <strong>adalah situs slot gacor anti kalah resmi yang memboyong daftar slot88</strong> sebagai rujukan utama bagi para profesional. Kami memahami bahwa keamanan serta keadilan sistem adalah prioritas mutlak bagi setiap pengguna. Oleh karena itu, platform kami telah dipersenjatai dengan infrastruktur server tercanggih guna menjamin stabilitas navigasi serta akurasi sistem bagi seluruh komunitas yang mencari kualitas layanan digital kelas dunia di Indonesia.
+            Menetapkan standar baru dalam industri hiburan digital yang lebih solid dan kredibel tahun 2026, <a href="https://qqgarudablay24.pages.dev/" style="color: #f1e5ac; font-weight: bold; text-decoration: none;">QQGARUDA777</a> <strong>adalah situs slot gacor anti kalah resmi yang memboyong daftar slot88</strong> sebagai rujukan utama bagi para profesional. Kami memahami bahwa keamanan serta keadilan sistem adalah prioritas mutlak bagi setiap pengguna. Oleh karena itu, platform kami telah dipersenjatai dengan infrastruktur server tercanggih guna menjamin stabilitas navigasi serta akurasi sistem bagi seluruh komunitas yang mencari kualitas layanan digital kelas dunia di Indonesia.
         </p>
 
         <p style="text-align: justify;">
-            Banyak pengguna merekomendasikan platform kami <strong>sebagai rujukan untuk bermain judi slot online sebab kemudahan serta keuntungan yang dihasilkan sungguh memuaskan</strong> secara konsisten di setiap sesi. Di <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" style="color: #f1e5ac; font-weight: bold; text-decoration: none;">QQGARUDA777</a>, setiap integrasi mekanisme permainan didukung oleh algoritma yang transparan serta diperbarui secara berkala sesuai standar operasional internasional. Fokus utama kami adalah menciptakan ekosistem yang kondusif, di mana setiap variabel peluang dikelola melalui sistem manajemen risiko yang profesional guna memberikan nilai tambah maksimal bagi strategi Anda.
+            Banyak pengguna merekomendasikan platform kami <strong>sebagai rujukan untuk bermain judi slot online sebab kemudahan serta keuntungan yang dihasilkan sungguh memuaskan</strong> secara konsisten di setiap sesi. Di <a href="https://qqgarudablay24.pages.dev/" style="color: #f1e5ac; font-weight: bold; text-decoration: none;">QQGARUDA777</a>, setiap integrasi mekanisme permainan didukung oleh algoritma yang transparan serta diperbarui secara berkala sesuai standar operasional internasional. Fokus utama kami adalah menciptakan ekosistem yang kondusif, di mana setiap variabel peluang dikelola melalui sistem manajemen risiko yang profesional guna memberikan nilai tambah maksimal bagi strategi Anda.
         </p>
 
         <p style="text-align: justify;">
@@ -1681,31 +1681,31 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="most__wrap clearfix">
         <div class="most__list  clearfix"> 
     <div class="most__count">1</div>
-        <a class="most__link" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png">
+        <a class="most__link" href="https://qqgarudablay24.pages.dev/">
         <div class="most__title">Di PTBI 2025, BI Tegaskan Pentingnya Stabilitas Makro dan Transformasi Ekonomi</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">2</div>
-        <a class="most__link" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png">
+        <a class="most__link" href="https://qqgarudablay24.pages.dev/">
         <div class="most__title">Jadwal Siaran Langsung Timnas Putri Indonesia Vs Thailand di SEA Games 2025</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">3</div>
-        <a class="most__link" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png">
+        <a class="most__link" href="https://qqgarudablay24.pages.dev/">
         <div class="most__title">Gunung Marapi di Sumbar Meletus, PVMBG Jelaskan Kondisi Terkini</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">4</div>
-        <a class="most__link" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png">
+        <a class="most__link" href="https://qqgarudablay24.pages.dev/">
         <div class="most__title">Cuaca Ekstrem Hingga Februari 2026, Ini Cara Cek Titik Banjir Pakai HP</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">5</div>
-        <a class="most__link" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png">
+        <a class="most__link" href="https://qqgarudablay24.pages.dev/">
         <div class="most__title">Eyang Narto, Sang Penjaga Kelestarian Pepohonan sejak 1973 di UKSW</div> 
             </a>
 </div>
@@ -1838,7 +1838,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         Dapatkan kemenangan dan pundi pundi pilihan di QQGARUDA777</div>
 
                     <div class="footerNewsletter-cta">
-                        <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png"class="footerNewsletter-link" rel="nofollow">
+                        <a href="https://qqgarudablay24.pages.dev/"class="footerNewsletter-link" rel="nofollow">
                             <i class="iconNewsletter"></i> DAFTAR
                         </a>
                     </div>
@@ -2814,10 +2814,10 @@ if (onSubmitNps !== null) {
                 <div class="kgmModal-footer">
                     <div class="form-row-big">
                         <div class="form-row">
-                            <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" class="button -transparent" id="kgmModal-btn-dismiss" data-event-category="popup_boostnotification" data-event-action="close_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nanti lagi</a>
+                            <a href="https://qqgarudablay24.pages.dev/" class="button -transparent" id="kgmModal-btn-dismiss" data-event-category="popup_boostnotification" data-event-action="close_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nanti lagi</a>
                         </div>
                         <div class="form-row">
-                            <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbrYMvCEV6Va02gyvw8iwqKW4AVuiXaSHv6x2hEQJxAFFAIj0DcyCO8misTaGphBAmKr_-eaoOsASXPSfLJ5jLqAUzgawrvTILELIFFfTQTEYnRKi664VQZuuE1kbZU3jKZVca3Qz-v9qX7_AS4f1qnln5TouMUSXQnZagH0PgGjV5t6WQJw1SOgAaQW0/s1080/slotqqgaruda15.png" class="button -primary" id="kgmModal-btn-notif" data-event-category="popup_boostnotification" data-event-action="click_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nyalakan</a>
+                            <a href="https://qqgarudablay24.pages.dev/" class="button -primary" id="kgmModal-btn-notif" data-event-category="popup_boostnotification" data-event-action="click_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nyalakan</a>
                         </div>
                     </div>
                 </div>
