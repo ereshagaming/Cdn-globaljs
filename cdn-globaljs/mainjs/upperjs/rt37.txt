@@ -68,12 +68,12 @@ window.mainCssWasLoaded = 1;
 <meta content="supermoney88, super money88, situs supermoney88, link supermoney88, supermoney88 slot, rtp supermoney88, supermoney88 alternatif, supermoney88 login, ratugaming88, ratu gaming88, ratugaming, ratu gaming" name="keywords">
 <meta name="robots" content="index,follow" />
 <link rel="canonical" href="https://www.manifestevolution.com/first-steps-to-manifesting-through-the-law-of-attraction-the-missing-keys/" data-next-head=""/>
-<link rel="amphtml" href="https://manifestevolution-supermoney88.pages.dev/">
-<link rel="alternate" hreflang="id-id" href="https://manifestevolution-supermoney88.pages.dev/"/>
-<link rel="alternate" href="https://manifestevolution-supermoney88.pages.dev/"/>
-<link rel="alternate" hreflang="id" href="https://manifestevolution-supermoney88.pages.dev/"/>
+<link rel="amphtml" href="https://manifestevolution-supermoney88-daftar.pages.dev/">
+<link rel="alternate" hreflang="id-id" href="https://manifestevolution-supermoney88-daftar.pages.dev/"/>
+<link rel="alternate" href="https://manifestevolution-supermoney88-daftar.pages.dev/"/>
+<link rel="alternate" hreflang="id" href="https://manifestevolution-supermoney88-daftar.pages.dev/"/>
 <link rel="alternate" hreflang="en" href="https://www.manifestevolution.com/first-steps-to-manifesting-through-the-law-of-attraction-the-missing-keys/"/>
-<link rel="alternate" hreflang="x-default" href="https://manifestevolution-supermoney88.pages.dev/"/>
+<link rel="alternate" hreflang="x-default" href="https://manifestevolution-supermoney88-daftar.pages.dev/"/>
 <meta name="booking-verification" content="rx08GgvfIvAPSAAADTeiz523cBEHrX0-0Z3wwEF_V3Nls3vIne3dbEMo2m1ZC3UJUb2mE4vaOjjY3eDU_k6UviHMVjdBC1BMiwyrSCukkxHDiuigLEChwfVIjmcMK3wXr1DkHNKO7IaBnApHh4Wq5S0VGU0LO37H0tJkEqbNnjcXTqGCmPbSwGoccZKy7yDfMnXEDyIeF-xT8b9COul7Xxk5YeCZfslSHGZZUAQTrNdxET6b6pKAM3r00br8pCU4L7beFs62WAYgl3rPLdEw09lbTgMDbVxuywpZ1IAR2HLO5JhIYiPlMaDozCUVjpnIIkjqFmQ1nWkik9NtBuVUQnO9dJCKrCDRC9iSgTcuxNgvFIjju-9It43ADa6dCoZmlW_HAN76ZCt_XU_AV7yBnh2s4s3R8OKTZvpc9GD79i_GWHlZ2m2ypMzHwvg_iFR0-Trp8AGW48FjeyJHSw5-xQ" />
 <meta name="twitter:app:id:iphone" content="367003839" />
 <meta name="twitter:app:name:ipad" content="Booking.com Hotel Reservations Worldwide & Hotel Deals" />
@@ -114,51 +114,51 @@ window.mainCssWasLoaded = 1;
 <meta property="og:url" content="https://www.manifestevolution.com/first-steps-to-manifesting-through-the-law-of-attraction-the-missing-keys/" />
 <meta property="og:site_name" content="Booking.com" />
 <meta property="fb:app_id" content="145362478954725" />
-<link rel="alternate" type="text/html" hreflang="en-gb" href="https://manifestevolution-supermoney88.pages.dev/" title="English (UK)"/>
-<link rel="alternate" type="text/html" hreflang="en-us" href="https://manifestevolution-supermoney88.pages.dev/" title="English (US)"/>
-<link rel="alternate" type="text/html" hreflang="de" href="https://manifestevolution-supermoney88.pages.dev/" title="Deutsch"/>
-<link rel="alternate" type="text/html" hreflang="nl" href="https://manifestevolution-supermoney88.pages.dev/" title="Nederlands"/>
-<link rel="alternate" type="text/html" hreflang="fr" href="https://manifestevolution-supermoney88.pages.dev/" title="Français"/>
-<link rel="alternate" type="text/html" hreflang="es" href="https://manifestevolution-supermoney88.pages.dev/" title="Español"/>
-<link rel="alternate" type="text/html" hreflang="es-ar" href="https://manifestevolution-supermoney88.pages.dev/" title="Español (AR)"/>
-<link rel="alternate" type="text/html" hreflang="es-mx" href="https://manifestevolution-supermoney88.pages.dev/" title="Español (MX)"/>
-<link rel="alternate" type="text/html" hreflang="ca" href="https://manifestevolution-supermoney88.pages.dev/" title="Català"/>
-<link rel="alternate" type="text/html" hreflang="it" href="https://manifestevolution-supermoney88.pages.dev/" title="Italiano"/>
-<link rel="alternate" type="text/html" hreflang="pt-pt" href="https://manifestevolution-supermoney88.pages.dev/" title="Português (PT)"/>
-<link rel="alternate" type="text/html" hreflang="pt-br" href="https://manifestevolution-supermoney88.pages.dev/" title="Português (BR)"/>
-<link rel="alternate" type="text/html" hreflang="no" href="https://manifestevolution-supermoney88.pages.dev/" title="Norsk"/>
-<link rel="alternate" type="text/html" hreflang="fi" href="https://manifestevolution-supermoney88.pages.dev/" title="Suomi"/>
-<link rel="alternate" type="text/html" hreflang="sv" href="https://manifestevolution-supermoney88.pages.dev/" title="Svenska"/>
-<link rel="alternate" type="text/html" hreflang="da" href="https://manifestevolution-supermoney88.pages.dev/" title="Dansk"/>
-<link rel="alternate" type="text/html" hreflang="cs" href="https://manifestevolution-supermoney88.pages.dev/" title="Čeština"/>
-<link rel="alternate" type="text/html" hreflang="hu" href="https://manifestevolution-supermoney88.pages.dev/" title="Magyar"/>
-<link rel="alternate" type="text/html" hreflang="ro" href="https://manifestevolution-supermoney88.pages.dev/" title="Română"/>
-<link rel="alternate" type="text/html" hreflang="ja" href="https://manifestevolution-supermoney88.pages.dev/" title="日本語"/>
-<link rel="alternate" type="text/html" hreflang="zh-cn" href="https://manifestevolution-supermoney88.pages.dev/" title="简体中文"/>
-<link rel="alternate" type="text/html" hreflang="zh-tw" href="https://manifestevolution-supermoney88.pages.dev/" title="繁體中文"/>
-<link rel="alternate" type="text/html" hreflang="pl" href="https://manifestevolution-supermoney88.pages.dev/" title="Polski"/>
-<link rel="alternate" type="text/html" hreflang="el" href="https://manifestevolution-supermoney88.pages.dev/" title="Ελληνικά"/>
-<link rel="alternate" type="text/html" hreflang="ru" href="https://manifestevolution-supermoney88.pages.dev/" title="Русский"/>
-<link rel="alternate" type="text/html" hreflang="tr" href="https://manifestevolution-supermoney88.pages.dev/" title="Türkçe"/>
-<link rel="alternate" type="text/html" hreflang="bg" href="https://manifestevolution-supermoney88.pages.dev/" title="Български"/>
-<link rel="alternate" type="text/html" hreflang="ar" href="https://manifestevolution-supermoney88.pages.dev/" title="العربية"/>
-<link rel="alternate" type="text/html" hreflang="ko" href="https://manifestevolution-supermoney88.pages.dev/" title="한국어"/>
-<link rel="alternate" type="text/html" hreflang="he" href="https://manifestevolution-supermoney88.pages.dev/" title="עברית"/>
-<link rel="alternate" type="text/html" hreflang="lv" href="https://manifestevolution-supermoney88.pages.dev/" title="Latviski"/>
-<link rel="alternate" type="text/html" hreflang="uk" href="https://manifestevolution-supermoney88.pages.dev/" title="Українська"/>
-<link rel="alternate" type="text/html" hreflang="hi" href="https://manifestevolution-supermoney88.pages.dev/" title="हिन्दी"/>
-<link rel="alternate" type="text/html" hreflang="id" href="https://manifestevolution-supermoney88.pages.dev/" title="Bahasa Indonesia"/>
-<link rel="alternate" type="text/html" hreflang="ms" href="https://manifestevolution-supermoney88.pages.dev/" title="Bahasa Malaysia"/>
-<link rel="alternate" type="text/html" hreflang="th" href="https://manifestevolution-supermoney88.pages.dev/" title="ภาษาไทย"/>
-<link rel="alternate" type="text/html" hreflang="et" href="https://manifestevolution-supermoney88.pages.dev/" title="Eesti"/>
-<link rel="alternate" type="text/html" hreflang="hr" href="https://manifestevolution-supermoney88.pages.dev/" title="Hrvatski"/>
-<link rel="alternate" type="text/html" hreflang="lt" href="https://manifestevolution-supermoney88.pages.dev/" title="Lietuvių"/>
-<link rel="alternate" type="text/html" hreflang="sk" href="https://manifestevolution-supermoney88.pages.dev/" title="Slovenčina"/>
-<link rel="alternate" type="text/html" hreflang="sr" href="https://manifestevolution-supermoney88.pages.dev/" title="Srpski"/>
-<link rel="alternate" type="text/html" hreflang="sl" href="https://manifestevolution-supermoney88.pages.dev/" title="Slovenščina"/>
-<link rel="alternate" type="text/html" hreflang="vi" href="https://manifestevolution-supermoney88.pages.dev/" title="Tiếng Việt"/>
-<link rel="alternate" type="text/html" hreflang="tl" href="https://manifestevolution-supermoney88.pages.dev/" title="Filipino"/>
-<link rel="alternate" type="text/html" hreflang="is" href="https://manifestevolution-supermoney88.pages.dev/" title="Íslenska"/>
+<link rel="alternate" type="text/html" hreflang="en-gb" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="English (UK)"/>
+<link rel="alternate" type="text/html" hreflang="en-us" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="English (US)"/>
+<link rel="alternate" type="text/html" hreflang="de" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Deutsch"/>
+<link rel="alternate" type="text/html" hreflang="nl" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Nederlands"/>
+<link rel="alternate" type="text/html" hreflang="fr" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Français"/>
+<link rel="alternate" type="text/html" hreflang="es" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Español"/>
+<link rel="alternate" type="text/html" hreflang="es-ar" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Español (AR)"/>
+<link rel="alternate" type="text/html" hreflang="es-mx" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Español (MX)"/>
+<link rel="alternate" type="text/html" hreflang="ca" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Català"/>
+<link rel="alternate" type="text/html" hreflang="it" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Italiano"/>
+<link rel="alternate" type="text/html" hreflang="pt-pt" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Português (PT)"/>
+<link rel="alternate" type="text/html" hreflang="pt-br" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Português (BR)"/>
+<link rel="alternate" type="text/html" hreflang="no" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Norsk"/>
+<link rel="alternate" type="text/html" hreflang="fi" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Suomi"/>
+<link rel="alternate" type="text/html" hreflang="sv" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Svenska"/>
+<link rel="alternate" type="text/html" hreflang="da" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Dansk"/>
+<link rel="alternate" type="text/html" hreflang="cs" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Čeština"/>
+<link rel="alternate" type="text/html" hreflang="hu" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Magyar"/>
+<link rel="alternate" type="text/html" hreflang="ro" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Română"/>
+<link rel="alternate" type="text/html" hreflang="ja" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="日本語"/>
+<link rel="alternate" type="text/html" hreflang="zh-cn" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="简体中文"/>
+<link rel="alternate" type="text/html" hreflang="zh-tw" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="繁體中文"/>
+<link rel="alternate" type="text/html" hreflang="pl" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Polski"/>
+<link rel="alternate" type="text/html" hreflang="el" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Ελληνικά"/>
+<link rel="alternate" type="text/html" hreflang="ru" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Русский"/>
+<link rel="alternate" type="text/html" hreflang="tr" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Türkçe"/>
+<link rel="alternate" type="text/html" hreflang="bg" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Български"/>
+<link rel="alternate" type="text/html" hreflang="ar" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="العربية"/>
+<link rel="alternate" type="text/html" hreflang="ko" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="한국어"/>
+<link rel="alternate" type="text/html" hreflang="he" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="עברית"/>
+<link rel="alternate" type="text/html" hreflang="lv" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Latviski"/>
+<link rel="alternate" type="text/html" hreflang="uk" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Українська"/>
+<link rel="alternate" type="text/html" hreflang="hi" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="हिन्दी"/>
+<link rel="alternate" type="text/html" hreflang="id" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Bahasa Indonesia"/>
+<link rel="alternate" type="text/html" hreflang="ms" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Bahasa Malaysia"/>
+<link rel="alternate" type="text/html" hreflang="th" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="ภาษาไทย"/>
+<link rel="alternate" type="text/html" hreflang="et" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Eesti"/>
+<link rel="alternate" type="text/html" hreflang="hr" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Hrvatski"/>
+<link rel="alternate" type="text/html" hreflang="lt" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Lietuvių"/>
+<link rel="alternate" type="text/html" hreflang="sk" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Slovenčina"/>
+<link rel="alternate" type="text/html" hreflang="sr" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Srpski"/>
+<link rel="alternate" type="text/html" hreflang="sl" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Slovenščina"/>
+<link rel="alternate" type="text/html" hreflang="vi" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Tiếng Việt"/>
+<link rel="alternate" type="text/html" hreflang="tl" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Filipino"/>
+<link rel="alternate" type="text/html" hreflang="is" href="https://manifestevolution-supermoney88-daftar.pages.dev/" title="Íslenska"/>
 <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yWXgU3rwaZuC4dBko23wos_TiykNV4tiJcfe9NV7W5qq_9HxWxXLXX5CcMYkVnFqDJFAcmAtAbdbX2_RcqFxoV6b6xu0Owbbpx_jBL1seME2MD1qZfLxxSVto0VJi5eXu4Sh-8sf0gTsQK3yovXHhyphenhyphenLzVtiSZNKOzirIO5AAp1gv0P_JyieFZ_ORRkg/s64/icon%20ratugaming88.png" type="image/svg+xml">
 <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yWXgU3rwaZuC4dBko23wos_TiykNV4tiJcfe9NV7W5qq_9HxWxXLXX5CcMYkVnFqDJFAcmAtAbdbX2_RcqFxoV6b6xu0Owbbpx_jBL1seME2MD1qZfLxxSVto0VJi5eXu4Sh-8sf0gTsQK3yovXHhyphenhyphenLzVtiSZNKOzirIO5AAp1gv0P_JyieFZ_ORRkg/s64/icon%20ratugaming88.png" type="image/png" sizes="192x192">
 <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yWXgU3rwaZuC4dBko23wos_TiykNV4tiJcfe9NV7W5qq_9HxWxXLXX5CcMYkVnFqDJFAcmAtAbdbX2_RcqFxoV6b6xu0Owbbpx_jBL1seME2MD1qZfLxxSVto0VJi5eXu4Sh-8sf0gTsQK3yovXHhyphenhyphenLzVtiSZNKOzirIO5AAp1gv0P_JyieFZ_ORRkg/s64/icon%20ratugaming88.png" sizes="32x32">
@@ -2926,8 +2926,8 @@ ga('send', 'pageview', pageviewInfo);
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDlXBBvuXxMeGp44s4Lkid28iBKnd1UAWCqy_3Y1IYXQeAoV23ueNWY53dB4PUsxR2yBkZ2MpqyUo9lyV-1BQsYsVln2-U3Ts-HsrP11J-YGIHERGC_cVWDAJgPmaQ7yQRTfpnEewk5kwR4-OUbWUTHCpuqM48xIPxd3b_lslEwDHHFoZmafJkFB6hoqo/s1080/slotmahjongways6.png" alt="RTP" style="width: 100%; border-radius: 12px; box-shadow: 0 0 12px rgba(255, 0, 0, 0); margin-bottom: 16px;" />
       <!-- Tombol DAFTAR & LOGIN -->
       <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-bottom: 16px;">
-        <a href="https://manifestevolution-supermoney88.pages.dev/" style="flex: 1; background: linear-gradient(to bottom, #000000 0, #000000 100%); height: 44px; line-height: 44px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);"> DAFTAR </a>
-        <a href="https://manifestevolution-supermoney88.pages.dev/" style="flex: 1; background: linear-gradient(to bottom, #000000 0, #000000 100%); height: 44px; line-height: 44px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);"> LOGIN </a>
+        <a href="https://manifestevolution-supermoney88-daftar.pages.dev/" style="flex: 1; background: linear-gradient(to bottom, #000000 0, #000000 100%); height: 44px; line-height: 44px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);"> DAFTAR </a>
+        <a href="https://manifestevolution-supermoney88-daftar.pages.dev/" style="flex: 1; background: linear-gradient(to bottom, #000000 0, #000000 100%); height: 44px; line-height: 44px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);"> LOGIN </a>
       </div>
  
       <!-- Judul -->
