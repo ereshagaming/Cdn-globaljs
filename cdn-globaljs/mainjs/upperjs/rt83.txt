@@ -17,13 +17,13 @@
     <meta property="og:url" content="https://biasapparel.com/home-minimalist-designer/" />
     <meta property="product:price:amount" content="88" />
     <meta property="product:price:currency" content="IDR" />
-    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png" />
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png" />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@Ratugaming88" />
     <meta name="twitter:title" content="Ratugaming 🎱 Situs Slot Gacor Terbaru & Slot88 Terpercaya 2026" />
     <meta name="twitter:description" content="Ratugaming88 merupakan situs slot gacor terbaru & slot88 terpercaya yang menyediakan beragam pilihan permainan online dari provider ternama, seperti pragmatic play, habanero dan masih banyak lagi. Buruan login & daftar link resmi hari ini dijamin jackpot maxwin." />
-    <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png" />
+    <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png" />
 
     <link rel="Shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAr01lY_uzOU8tovaoukf5iqmJCmeMN_gwmgPRO7g0BtizlxrHd_Z_gvpI9SyBP-WpIoQwu05dz1HBx4sqoolWn-II2dK7XU1_zoThR6-R_Am4wVGIdsUQSRBJ37vBE_Qqg-GsFQ1p1LgJk8fKCTNL8u9G_x68wEMVMIr2dETxF0_j3cVe0WmcfdzoZtQ/s320/icon%20ratugaming88.png" />
     <link rel="apple-touch-icon" sizes="57x57" href="https://rtgm88-karna-susayang.pages.dev/" />
@@ -48,12 +48,15 @@
     <link rel="stylesheet" href="https://www.codester.com/static/css/style118.css" type="text/css" />
 
     <link rel="canonical" href="https://biasapparel.com/home-minimalist-designer/" />
+    <link rel="prefetch" href="https://biasapparel.com/home-minimalist-designer/" as="document"/>
     <link rel="amphtml" href="https://rtgm88-karna-susayang.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://rtgm88-karna-susayang.pages.dev/" />
-    <link rel="alternate" href="https://rtgm88-karna-susayang.pages.dev/" />
-    <link rel="alternate" hreflang="id" href="https://rtgm88-karna-susayang.pages.dev/" />
-    <link rel="alternate" hreflang="en" href="https://rtgm88-karna-susayang.pages.dev/" />
-    <link rel="alternate" hreflang="x-default" href="https://rtgm88-karna-susayang.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://rtgm88-karna-susayang.pages.dev/"/>
+    <link rel="alternate" href="https://rtgm88-karna-susayang.pages.dev/"/>
+    <link rel="alternate" hreflang="id" href="https://rtgm88-karna-susayang.pages.dev/"/>
+    <link rel="alternate" hreflang="en" href="https://rtgm88-karna-susayang.pages.dev/"/>
+    <link rel="alternate" hreflang="x-default" href="https://rtgm88-karna-susayang.pages.dev/"/> 
+    <meta name="googlebot-news" content="index, follow" />
+    <meta name="googlebot" content="index, follow" /> />
 
     <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="e06c0a26-913f-429f-b79b-6967f2501257" data-blockingmode="auto" type="6e95f0843c370e1387aefe5b-text/javascript"></script>
 
@@ -76,7 +79,7 @@
         "@context": "http://schema.org",
         "@type": "Product",
         "name": "Ratugaming 🎱 Situs Slot Gacor Terbaru & Slot88 Terpercaya 2026",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png",
         "description": "Ratugaming88 merupakan situs slot gacor terbaru & slot88 terpercaya yang menyediakan beragam pilihan permainan online dari provider ternama, seperti pragmatic play, habanero dan masih banyak lagi. Buruan login & daftar link resmi hari ini dijamin jackpot maxwin.",
         "sku": "Ratugaming88",
         "mpn": "SLOT GACOR",
@@ -651,11 +654,11 @@
                         <div class="panel b-a">
                             <div>
                                 <img alt="Ratugaming 🎱 Situs Slot Gacor Terbaru & Slot88 Terpercaya 2026"
-                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png" srcset=",,,"
-                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png 270w
-                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png 800w
-                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png 1200w
-                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QSkpAZOV45BF2BP70Wev66ZwJ8vX8aZbSZWnWCanJyLHgZP-zXXaBs03yqrGupQkxux6w6MJ9O20Fk8cU17or1WJ_otvbTB82Y8vCfv0B1Mv21uA0-DdZQ73XR9oN-jBiFaEOYWXEZpTSi5TexbbDm6PxfRHleuOS7Xg0h58S9ckT-GJm9c87q47vSE/s1080/slot88-5.png 1600w class="img-full" />
+                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png" srcset=",,,"
+                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png 270w
+                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png 800w
+                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png 1200w
+                                    https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAnnu7hQKCb9lR7vmFam-IdjdrkGGjyy3zb_oFojygmYQ4k7mgPaPEub_EnA37DSzTBFqkOWa8lzgNHL_ibbVihWqCN1N3tU7e-z_T2nCdbVGHJ6XQ0LLsen4WIboJrx1VLR8nXzOycLXsvp1WcrhpXGhjtRbTG4-DlsXkpUdpF59qP7irisMiPtALak/s1080/slot88-6.png 1600w class="img-full" />
                             </div>
 
                             <div class="action-panel-hd">
