@@ -7,12 +7,12 @@
     <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EILXqK9gdjx0VnRMJDOA8QZ2MDireIe6zhJ_0EO0GOWsJzg1vxMTSH6dXQjWCm_md6EKRl0UTu22gsKkdMZljHuWJpeQTI89fJjWlU1y0opSkWUoDp4iL_mf-cvgS0By6j-PfNgSH93PCL_aqg-78eGYjt54zEyAqb6BKSxl80qgY2GmP-zgyhlrBrs/s1600/favicon.webp">
     <link rel=canonical href="https://publiland360.com/" rel=canonical>
     <link rel="prefetch" href="https://publiland360.com/" as="document" />
-    <link rel=amphtml href="https://qqgaruda777-mariobrocal.pages.dev/">
-    <link rel="alternate" hreflang="id-id" href="https://qqgaruda777-mariobrocal.pages.dev/"/>
-    <link rel="alternate" href="https://qqgaruda777-mariobrocal.pages.dev/"/>
-    <link rel="alternate" hreflang="id" href="https://qqgaruda777-mariobrocal.pages.dev/"/>
+    <link rel=amphtml href="https://qqgaruda777-publiland360.pages.dev/">
+    <link rel="alternate" hreflang="id-id" href="https://qqgaruda777-publiland360.pages.dev/"/>
+    <link rel="alternate" href="https://qqgaruda777-publiland360.pages.dev/"/>
+    <link rel="alternate" hreflang="id" href="https://qqgaruda777-publiland360.pages.dev/"/>
     <link rel="alternate" hreflang="en" href="https://publiland360.com/"/>
-    <link rel="alternate" hreflang="x-default" href="https://qqgaruda777-mariobrocal.pages.dev/"/>
+    <link rel="alternate" hreflang="x-default" href="https://qqgaruda777-publiland360.pages.dev/"/>
     <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIYZNgyU3orcPEVw_9-98gVYNUvf4UYTBUHJ5YDnhw78eXn6QgVo49VP6y95xdOj_lJ56S9mAsa-GCuc7GB3LRvmegGdGFqKqn8suMIvXmkCoPVmYmNoDoQChm9Pl-1BzGvD_DM8zDQyNO7w3bTQeMUb3wF7tStR0SJty3XJcgq80H3rUMWha_HaGf8U/s1080/slot777-11.png' rel='preload'>
     <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
     <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -396,7 +396,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://qqgaruda777-mariobrocal.pages.dev/"
+                        href="https://qqgaruda777-publiland360.pages.dev/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
                             DAFTAR VVIP
@@ -653,8 +653,8 @@
         }
     </style>
     <div class="n-columns-2">
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noreferrer"
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noreferrer"
             class="register">DAFTAR</a>
     </div>
     <form id="applepay_form" action="/checkout/applepay" accept-charset="UTF-8" method="post"><input type="hidden"
@@ -1105,9 +1105,9 @@
                  data-rudderstack--filter-clicked-location-value='product_attributes'>
                  <div class='m-cart-config__select-label'>
                  </div>
-                 <a href="https://qqgaruda777-mariobrocal.pages.dev/"
+                 <a href="https://qqgaruda777-publiland360.pages.dev/"
                      class="btn-x">DAFTAR DISINI</a>
-                 <a href="https://qqgaruda777-mariobrocal.pages.dev/"
+                 <a href="https://qqgaruda777-publiland360.pages.dev/"
                      class="btn-x">LOGIN DISINI</a>
 
                  <style>
@@ -1526,7 +1526,7 @@
      </button>
  </div>
  <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-     <a href="https://qqgaruda777-mariobrocal.pages.dev/"><img
+     <a href="https://qqgaruda777-publiland360.pages.dev/"><img
              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVpie_pkomGD7yRjKuCpMJtXRQJxV3bDPMWLugmFe1jNPpGS72Cjt3sYEfhs-gk-JgzQrGBIh8CKOIBGiMAXA_alC2y1M0Y45VEbQTgHtJULiuazYPxb-R_16pBW4vGgdIvViVzgRq0OEr4qb9OCsF0xNhhrKs003RiQbUiLifuLfz9gdkWxuDS_NojJk/s320/gif-daftar.gif"
              alt="Daftar QQGARUDA777" loading="lazy"
              style="max-width:400px; height:auto; display:block;"></a>
@@ -5003,27 +5003,27 @@
         }
     </style>
     <div class="alx-gaming-fixed-footer">
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noopener">
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noopener">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EILXqK9gdjx0VnRMJDOA8QZ2MDireIe6zhJ_0EO0GOWsJzg1vxMTSH6dXQjWCm_md6EKRl0UTu22gsKkdMZljHuWJpeQTI89fJjWlU1y0opSkWUoDp4iL_mf-cvgS0By6j-PfNgSH93PCL_aqg-78eGYjt54zEyAqb6BKSxl80qgY2GmP-zgyhlrBrs/s1600/favicon.webp" alt="Promo">
             Promo
         </a>
 
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noopener">
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noopener">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EILXqK9gdjx0VnRMJDOA8QZ2MDireIe6zhJ_0EO0GOWsJzg1vxMTSH6dXQjWCm_md6EKRl0UTu22gsKkdMZljHuWJpeQTI89fJjWlU1y0opSkWUoDp4iL_mf-cvgS0By6j-PfNgSH93PCL_aqg-78eGYjt54zEyAqb6BKSxl80qgY2GmP-zgyhlrBrs/s1600/favicon.webp" alt="Login">
             Login
         </a>
 
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noopener" class="tada">
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noopener" class="tada">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EILXqK9gdjx0VnRMJDOA8QZ2MDireIe6zhJ_0EO0GOWsJzg1vxMTSH6dXQjWCm_md6EKRl0UTu22gsKkdMZljHuWJpeQTI89fJjWlU1y0opSkWUoDp4iL_mf-cvgS0By6j-PfNgSH93PCL_aqg-78eGYjt54zEyAqb6BKSxl80qgY2GmP-zgyhlrBrs/s1600/favicon.webp" alt="Daftar">
             Daftar
         </a>
 
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noopener">
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noopener">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EILXqK9gdjx0VnRMJDOA8QZ2MDireIe6zhJ_0EO0GOWsJzg1vxMTSH6dXQjWCm_md6EKRl0UTu22gsKkdMZljHuWJpeQTI89fJjWlU1y0opSkWUoDp4iL_mf-cvgS0By6j-PfNgSH93PCL_aqg-78eGYjt54zEyAqb6BKSxl80qgY2GmP-zgyhlrBrs/s1600/favicon.webp" alt="Whatsapp">
             Whatsapp
         </a>
 
-        <a href="https://qqgaruda777-mariobrocal.pages.dev/" rel="nofollow noopener">
+        <a href="https://qqgaruda777-publiland360.pages.dev/" rel="nofollow noopener">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EILXqK9gdjx0VnRMJDOA8QZ2MDireIe6zhJ_0EO0GOWsJzg1vxMTSH6dXQjWCm_md6EKRl0UTu22gsKkdMZljHuWJpeQTI89fJjWlU1y0opSkWUoDp4iL_mf-cvgS0By6j-PfNgSH93PCL_aqg-78eGYjt54zEyAqb6BKSxl80qgY2GmP-zgyhlrBrs/s1600/favicon.webp" alt="Live Chat">
             Live Chat
         </a>
